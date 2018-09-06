@@ -1,0 +1,1000 @@
+Name,Perm_Address,Age,Age1,Age2,Gender,Marital_status,Department_Unit,C1-self laughing,C2-self crying,C3-Self talking,C4-Talkactiveness,C5-Food,C6-self important ideas,C7-suspicious,C8-sleep,C9-outgoing tendency,C10-aggressive behaviour,C11-odd behaviour,C12-hearing voice,C13-speech,C14-low mood,C15-suicide,C16-lack of self care,C17-abuse,Diagnosis
+Anuradha Mistry,Bagerhat,21,20-24,20-29,F,Unmarried,Child adolescent and family psychiatry,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Sahana,Narayanganj,28,25-29,20-29,F,Married,Adult Psychiatry,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Beuty,Chandpur,30,30-34,30-39,F,Married,Adult psychiatry,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Bristi Akhter,Gazipur,20,20-24,20-29,F,Unmarried,Adult,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,BMD
+Samima,Barishal,33,30-34,30-39,F,Married,Adult,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,BMD
+Jahanara Kabir,"Mirpur,Dhaka",58,55-59,50-59,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Schizophrenia
+Rotna Begum,Mymensingh,40,40-44,40-49,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Schizophrenia
+Rahima,Bangsal,35,35-39,30-39,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Kanika,Ghakuda,35,35-39,30-39,F,Married,Adult,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Sahida,Saha alibag Dhaka,35,35-39,30-39,F,Married,Adult,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,BMD
+Phaki,Sutrapur,20,20-24,20-29,F,Unmarried,Adult,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Tania,Barishal,20,20-24,20-29,F,Married,Adult,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Psychotic disorder
+Hasina Begum,Barishal,34,30-34,30-39,F,Married,Adult,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+Disha,"Savar, Dhaka",22,20-24,20-29,F,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,BMD
+Asma Akhter,Dhanbari Tangail,38,35-39,30-39,F,Married,Adult,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Schizophrenia
+Sukhi,Narail,24,20-24,20-29,F,Married,Adult,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Shahinur,Dhaka,38,35-39,30-39,F,Married,Adult,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+Zharna Begum,Chandpur,35,35-39,30-39,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Monira Akhter,Gopalganj,29,25-29,20-29,F,Unmarried,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,BMD
+Keya Shaha,Narayanganj,25,25-29,20-29,F,Married,Adult,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Rahima,Narsingdi,40,40-44,40-49,F,Married,Adult Psychiatry,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Shova,Munshiganj,19,15-19,10-19,F,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Taslima,Sharimatpur,22,20-24,20-29,F,Married,Adult Psychiatry,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Conversation disorder
+Easmin,Dhaka,36,35-39,30-39,F,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+Fatema Begum,"Rampura,Dhaka",45,45-49,40-49,F,Married,Adult,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,BMD
+Sefali,Manikganj,26,25-29,20-29,F,Married,Adult,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Salma Akther,Saydabad,22,20-24,20-29,F,Married,Adult,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Beauty,Dhaka,24,20-24,20-29,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Mukta Mozumder,Lakhimpur,45,45-49,40-49,F,Unmarried,Adult Psychiatry,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,BMD
+M.Rumana Afruj (Mauri),Dhaka,21,20-24,20-29,F,Married,Adult,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,EPS
+Sheuli Akther,Dhaka,22,20-24,20-29,F,Married,Adult,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Schizophrenia
+Kochi,Foridpur,55,55-59,50-59,F,Married,Adult,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,BMD
+Farjana,B.Baria,28,25-29,20-29,F,Married,Adult,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Umme Hafsa,Dhaka,19,15-19,10-19,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,BMD
+Rimi,Gajipur,25,25-29,20-29,F,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,RBD (CP)
+Rumi,NArayanganj,28,25-29,20-29,F,Unmarried,Adult phychiatry,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Schizophrenia
+Panna Akther,Tejgao,40,40-44,40-49,F,Married,Adult phychiatry,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Conversation disorder
+Shela,Rajbari,21,20-24,20-29,F,Married,Adult phychiatry,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Post Partum Psychosis
+Mka begum,Dhaka,50,50-54,50-59,F,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,PTSD
+Sophai Begum,Sariatpur,54,50-54,50-59,F,Married,Adult,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Farjana Akther Diba,Norshindi,24,20-24,20-29,F,Married,Adult phychiatry,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Schizophrenia
+Mrs Jaigun,Gajipur,50,50-54,50-59,F,Married,Adult phychiatry,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,NDD
+Bibi Hawa,Munshiganj,33,30-34,30-39,F,Married,Adult,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Jannatul Amena Lamia,Dhaka,21,20-24,20-29,F,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Post Partum Psychosis
+Oalida,Comilla,22,20-24,20-29,F,Unmarried,Adult phychiatry,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,BMD
+Mrs Nurbanu,Chittagong,40,40-44,40-49,F,Married,Adult,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Shahnaj Mumi Bhiti,Chandpur,28,25-29,20-29,F,Unmarried,Adult phychiatry,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Rukhea,Gajipur,25,25-29,20-29,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Nazmun Nahar,Dhaka,32,30-34,30-39,F,Married,Adult,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Schizophrenia
+Nazma,Gajipur,25,25-29,20-29,F,Unmarried,Adult,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Schizophrenia
+M. Noion Tara,Norshondi,25,25-29,20-29,F,Married,Adult,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Rebeka Rashid Riki,Dinajpur,25,25-29,20-29,F,Unmarried,Adult,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Sultana,Chandpur,25,25-29,20-29,F,Unmarried,Adult,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,BPD
+Shirin Akther,Narayanganj,20,20-24,20-29,F,Unmarried,Adult,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Schizophrenia
+Salma,Narayanganj,25,25-29,20-29,F,Unmarried,Adult phychiatry,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+Champa,Kisurgong,30,30-34,30-39,F,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+Sarmin,Patuakhali,22,20-24,20-29,F,Unmarried,Adult,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Schizophrenia
+Rasida,Karanigong,35,35-39,30-39,F,Married,Adult,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Schizophrenia
+Josna,Comilla,22,20-24,20-29,F,Married,Adult,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Acute Psychotic Disorder
+Fatema Begum,Chandpur,50,50-54,50-59,F,Married,Adult,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Sarmin Akhter,Dhaka,35,35-39,30-39,F,Married,Adult phychiatry,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+Poly,Dhaka,25,25-29,20-29,F,Married,Adult,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Sabina Easmin,N/A,33,30-34,30-39,F,Separated,Adult,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Rina,Munshiganj,56,55-59,50-59,F,Married,Adult,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Dementia
+Bikis sutana popi,Feni,36,35-39,30-39,F,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Shahanaj,Chandpur,22,20-24,20-29,F,Married,Adult,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Jamila,Comilla,30,30-34,30-39,F,Married,Adult phychiatry,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,BMD
+Easmin Akhter,Dhaka,20,20-24,20-29,F,Married,Adult phychiatry,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Conversation disorder
+Sajeda,Jamalpur,30,30-34,30-39,F,Married,Adult phychiatry,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Bilkis,Vola,35,35-39,30-39,F,Married,Adult phychiatry,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Meherunnesa,Hobigong,45,45-49,40-49,F,Married,Adult phychiatry,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Shilpi,Dhaka,40,40-44,40-49,F,Married,Adult,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+Hira Khanam,Gupalgong,26,25-29,20-29,F,Unmarried,Adult,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,BMD
+Gulsan Ara,Dhaka,45,45-49,40-49,F,Married,Adult,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Schizophrenia
+Tanjina Akhter,Jamalpur,38,35-39,30-39,F,Married,Adult phychiatry,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,BMT
+Mka begum,Manikgong,40,40-44,40-49,F,Married,Adult,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Rubi,B-Baria,35,35-39,30-39,F,Married,Adult,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Silpi,Dhaka,32,30-34,30-39,F,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,BMD
+Semoli,Comilla,22,20-24,20-29,F,Married,Adult,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Conversation disorder
+Kohinur Begum,Comilla,40,40-44,40-49,F,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Schizophrenia
+Rajia,Manikgong,25,25-29,20-29,F,Married,Adult,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Salma Akther,Kollanpur,25,25-29,20-29,F,Married,Psychotherapy,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Conversation disorder
+Tajnahar,"Kaligong, Dhaka",34,30-34,30-39,F,Married,Adult,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Sarmin,Vola,13,10-14,10-19,F,Unmarried,Adult,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Conversation disorder
+Fahima,Comilla,14,10-14,10-19,F,Unmarried,Adult phychiatry,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Conversation disorder
+Tahamina Akhter,Sayadpur,32,30-34,30-39,F,Married,Adult phychiatry,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Schizophrenia
+Jannat,Dhaka,19,15-19,10-19,F,Married,Adult,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Suborna,Munshiganj,26,25-29,20-29,F,Unmarried,Adult,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,BMD
+Rozia Begum,Comilla,20,20-24,20-29,F,Unmarried,Adult,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+Ruma Paul,Mymensingh,28,25-29,20-29,F,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Conversation disorder
+Ruma,Lalkuti majar,25,25-29,20-29,F,Married,Adult,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Psychotic disorder
+Rina,Dhaka,26,25-29,20-29,F,Divorced,Adult,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Zohora Khatun,Barisal,35,35-39,30-39,F,Married,Adult,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Shahina Akther,Dhaka,40,40-44,40-49,F,Married,Psychotherapy,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Anika,Narayongang,25,25-29,20-29,F,Unmarried,Adult,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Schizophrenia
+Hamida,Pirozpur,38,35-39,30-39,F,Married,Psycoterapy,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+Munni,Dhaka,14,10-14,10-19,F,Unmarried,Child adolescent and family psychiatry,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Jorna Akther,Manikgong,35,35-39,30-39,F,Married,Psychotherapy,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Schizophrenia
+Mosammod Nahid Sultana,Dhaka,50,50-54,50-59,F,Married,Adult,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,BMD
+Farzana Akther,Narayongang,20,20-24,20-29,F,Married,Psychotherapy,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Psychotic disorder
+Roksana Yeasmin,Tongi,40,40-44,40-49,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Nadia,Norshindi,19,15-19,10-19,F,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Psychotic disorder
+Menoka Rani Biswas,Dhaka,26,25-29,20-29,F,Married,Adult,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Schizophrenia
+Sajeda,Jamalpur,30,30-34,30-39,F,Married,Adult,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Poran Akther,Lakshmipur,26,25-29,20-29,F,Unmarried,Adult Psychiatry,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Schizophrenia
+Taslima,Jhalkati,35,35-39,30-39,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Conversation disorder
+Ratna,Gazipur,32,30-34,30-39,F,Married,Adult Psychiatry,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Schizophrenia
+Nayan Tara,Bibariya,17,15-19,10-19,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Moshammod Kamrun Necha,Dhaka,53,50-54,50-59,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Mochammad Rumana Afhroz Muyuri,Dhaka,21,20-24,20-29,F,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Psychotic disorder
+Jesmin,Dhaka,35,35-39,30-39,F,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Schizophrenia
+Hazera,vola,27,25-29,20-29,F,Married,Adult,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Shahanaz begum,Dhaka,35,35-39,30-39,F,Married,Adult,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Shobita,Borghuna,35,35-39,30-39,F,Married,Adult,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Conversation disorder
+Hasina Begum,Narayongang,25,25-29,20-29,F,Married,Adult,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Schizophrenia
+Nabila,Dhaka,20,20-24,20-29,F,Unmarried,Adult,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Mohammad Sariful muslim,Dhaka,25,25-29,20-29,F,Married,Adult,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Rehena,B.Baria,30,30-34,30-39,F,Unmarried,Adult,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Schizophrenia
+Mohammod Nasrin Akther,Dhaka,25,25-29,20-29,F,Married,Adult Psychiatry,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Schizophrenia
+Mohammod Nipa Hossen,Tangail,22,20-24,20-29,F,Married,Adult Psychiatry,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Alekha Begum,Netrokona,50,50-54,50-59,F,Married,Adult Psychiatry,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Rakiba,Narayongang,26,25-29,20-29,F,Married,Adult Psychiatry,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Conversation disorder
+Mochammod Monowara Begum,Vola,20,20-24,20-29,F,Married,Adult,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Laili Begum,Gaibanda,43,40-44,40-49,F,Married,Adult,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Delusional
+Saleha,Gazipur,50,50-54,50-59,F,Married,Adult,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,MDD
+Mochammod Farhana Akther,Kishorgong,20,20-24,20-29,F,Unmarried,Adult,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,BMD
+Sahanaz,Dhaka,35,35-39,30-39,F,Married,Adult,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Shanta Rani,Dhaka,30,30-34,30-39,F,Married,Adult Psychiatry,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Nargis,Dhaka,32,30-34,30-39,F,Married,Adult Psychiatry,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Hasina Akther,Noakhali,40,40-44,40-49,F,Married,Adult,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Sahera kathun,Dhaka,46,45-49,40-49,F,Married,Adult,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,BMD
+Ayrin Sultana,Dhaka,28,25-29,20-29,F,Married,Adult Psychiatry,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Schizophrenia
+Afroza,Rajbari,30,30-34,30-39,F,Married,Adult,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Shanaz,Dhaka,35,35-39,30-39,F,Married,Adult,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Habiba,Sariyatful,22,20-24,20-29,F,Married,Adult Psychiatry,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Farhana Yeasmin,Feni,22,20-24,20-29,F,Unmarried,Adult Psychiatry,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+Munni,Barisal,30,30-34,30-39,F,Married,Adult Psychiatry,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Aporna Biswas,Dhaka,49,45-49,40-49,F,Married,Adult,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Misses Nur Nahar,Vola,30,30-34,30-39,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Shahanaz Begum,Dhaka,55,55-59,50-59,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Masuda Begum,Sariyotpur,37,35-39,30-39,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Schizophrenia
+Shilpi,Rahmanbaria,30,30-34,30-39,F,Married,Adult,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Schizophrenia
+Fatema,Narayongang,27,25-29,20-29,F,Divorced,Adult Psychiatry,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Asma Akther,Comilla,19,15-19,10-19,F,Unmarried,Adult,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,BMD
+Mochammod Mahmuda akther lucky,Chandpur,20,20-24,20-29,F,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Lutfunnesa,Munshigang,50,50-54,50-59,F,Married,Adult Psychiatry,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Samchun Nahar,Vola,35,35-39,30-39,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Dementia
+Honufha Begum,Gazipur,40,40-44,40-49,F,Married,Adult,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,BMD
+Salma Begum,Vola,30,30-34,30-39,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Schizophrenia
+Mosammod Fajilatunnesa,Barisal,60,60-64,60-69,F,Married,Adult,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Rina Begum,B.Baria,35,35-39,30-39,F,Married,Adult Psychiatry,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Asma,Munshigang,45,45-49,40-49,F,Married,Adult Psychiatry,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Depression
+Shefaly,Gazipur,25,25-29,20-29,F,Married,Adult,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Post Partum Psychotic disorder
+Parvin Akter,Lakshmipur,35,35-39,30-39,F,Married,Adult Psychiatry,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Suraya Rahman,Shariyotpur,28,25-29,20-29,F,Married,Adult,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,Schizophrenia
+Fatema Khatun,Manikgang,32,30-34,30-39,F,Separated,Adult Psychiatry,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+Nasima Begum,Narayongang,40,40-44,40-49,F,Married,Adult,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+Parvin,Dhaka,40,40-44,40-49,F,Married,Adult,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,BMD
+Tonni,Vola,27,25-29,20-29,F,Married,Adult,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Schizophrenia
+Halimun Begum,Gazipur,45,45-49,40-49,F,Married,Adult,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+Sultana,Manikgang,35,35-39,30-39,F,Married,Adult Psychiatry,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,Schizophrenia
+Rifha,Munshigang,16,15-19,10-19,F,Married,Adult Psychiatry,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Behavioural disorder
+Khorsheda Begum,Firozpur,54,50-54,50-59,F,Married,Adult Psychiatry,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Rahima,Chandpur,57,55-59,50-59,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,BMD
+Bibi Fatema,Noakhali,37,35-39,30-39,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Psychotic disorder
+Jesmin,Comilla,28,25-29,20-29,F,Married,Adult,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Momtaz Akther,Jalkati,29,25-29,20-29,F,Unmarried,Adult Psychiatry,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,No,Schizophrenia
+Kaniz Fatema,Dhaka,30,30-34,30-39,F,Unmarried,Adult,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+Nazma,Manikgang,30,30-34,30-39,F,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,BMD
+Mitali dash,Tangail,28,25-29,20-29,F,Married,Adult,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Soma Akther,Dhaka,22,20-24,20-29,F,Married,Adult,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,Acute Psychotic Disorder
+Parul,Dhaka,27,25-29,20-29,F,Married,Adult Psychiatry,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Mitu,Vola,21,20-24,20-29,F,Married,Psychotherapy,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Schizophrenia
+Shaona,Dhaka,24,20-24,20-29,F,Married,Adult Psychiatry,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Schizophrenia
+Kadija,Barisal,17,15-19,10-19,F,Unmarried,Adult Psychiatry,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Schizophrenia
+Fahmida Akther,Chadpur,30,30-34,30-39,F,Married,Adult,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,BMD
+Rozina Akther,Dhaka,30,30-34,30-39,F,Divorced,Adult Psychiatry,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Nur Jahan,Chandpur,35,35-39,30-39,F,Married,Adult Psychiatry,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Nargis Akther,Manikgang,33,30-34,30-39,F,Married,Adult Psychiatry,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Delusional
+Nasima Akther,Manikgang,23,20-24,20-29,F,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,MDD
+Kadiza,Manikgang,45,45-49,40-49,F,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Sirajum Munira,Dhaka,32,30-34,30-39,F,Unmarried,Adult,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Anowara Begum,Gazipur,44,40-44,40-49,F,Married,Adult Psychiatry,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Headache
+Anjuman,Manikgang,30,30-34,30-39,F,Married,Adult,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Lipi,Rajbari,25,25-29,20-29,F,Married,Adult Psychiatry,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Nazma Akther,Potuakali,35,35-39,30-39,F,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,DM
+Rina,Mymonshing,48,45-49,40-49,F,Unmarried,Adult,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Schizophrenia
+Ferdosi Ikbal,Narayongang,48,45-49,40-49,F,Married,Adult Psychiatry,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Jamila Akter,B.Baria,37,35-39,30-39,F,Married,Adult Psychiatry,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,BMD
+Ruma,B.Baria,30,30-34,30-39,F,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Hamida,Firozpur,38,35-39,30-39,F,Married,Adult,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Schizophrenia
+Shek Samim Ahmed,Barisal,29,25-29,20-29,M,Unmarried,Psychotherapy,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,F.K
+Jahangir,Kisorgang,28,25-29,20-29,M,Married,Psychotherapy,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,BMD
+Ajoy,Barisal,28,25-29,20-29,M,Unmarried,Psychotherapy,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Md Badsha,Norshindi,27,25-29,20-29,M,Married,Psychotherapy,No,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Kaleed Musa,N/A,28,25-29,20-29,M,Unmarried,Adult,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+Naim Rahman,Ranngpur,19,15-19,10-19,M,Unmarried,Psychotherapy,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Conduct disorder
+Helal,Comilla,20,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,BMD
+Md Arif Hossen,Lakshmipur,20,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,MDD
+Khairul Aman,N/A,20,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,SRD
+Shariful muslim,Chandpur,25,25-29,20-29,M,Unmarried,Adult Psychiatry,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,SRD
+Fayaz Ahmad,Faridpur,15,15-19,10-19,M,Unmarried,Child adolescent and family psychiatry,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes sound disorder
+Shamsul Alam,Barisal,55,55-59,50-59,M,Married,Psychotherapy,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,BMD
+Mojammel,Potuakali,28,25-29,20-29,M,Married,Adult,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,SRD
+Imran,Dhaka,35,35-39,30-39,M,Unmarried,Adult,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,N.O.S
+Sha Alam,Fakrapul,35,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,SRD
+Ovaidullah,Pirojpur,28,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Tarek,Barishal,30,30-34,30-39,M,Married,Adult,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+Kairul muslim,Keraniganja,27,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Badol,N/A,50,50-54,50-59,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Md Tipu Sultan,Kishrgong,22,20-24,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Julear Ahemed,N/A,25,25-29,20-29,M,Unmarried,Adult,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Abu Bakkar,Dhaka,55,55-59,50-59,M,Married,Adult,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,BMD
+Md Liton Mia,Dhaka,28,25-29,20-29,M,Married,Adult,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Mahfuz Alam,Chandpur,29,25-29,20-29,M,Married,Adult,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Manik Kumar Dash,"Jagannath hall, Dhaka University",33,30-34,30-39,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Schizophrenia
+MD Omar Faruk,Madaripur,28,25-29,20-29,M,Married,Adult,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Psychotic disorder
+Md Muminur Rahman,Dhaka,52,50-54,50-59,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,BMD
+Md Kamal,Isalmpur,35,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+Mohan,Amirabad,22,20-24,20-29,M,Unmarried,Adult,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,SRD
+Ibrahim,Barishal,20,20-24,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Manjur Alam,N/A,25,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Panaroid sehesophre
+Javed,Narayanganj,30,30-34,30-39,M,Married,Adult,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,BMD
+Bahadur,N/A,27,25-29,20-29,M,Unmarried,Adult,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Bahadur,N/A,27,25-29,20-29,M,Married,Adult,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Arif,Gahipur,28,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+MD Mohiuddin,Tangail,38,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Yeasin,Dhaka,17,15-19,10-19,M,Unmarried,Child adolescent and family psychiatry,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Acute Psychotic Disorder
+Md Saokat,Dhaka,32,30-34,30-39,M,Married,Adult,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,SRD
+Golam Mostafa,Dhaka,23,20-24,20-29,M,Unmarried,Adult,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Schizophrenia
+Avi Hasan,Tangail,26,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Schizophrenia
+Abul Basar,Munsiganja,25,25-29,20-29,M,Married,Adult,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Schizophrenia
+Saiful muslim,Potuakali,18,15-19,10-19,M,Unmarried,Adult,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Imran Shiek,Narail,22,20-24,20-29,M,Unmarried,Adult,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Schizophrenia
+Polash,Habiganja,18,15-19,10-19,M,Unmarried,Adult,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Alam Hasan,Bagerhut,48,45-49,40-49,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,BMD
+Nurul Amin,Dhaka,26,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Kalek,Kumilla,32,30-34,30-39,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Khokon,Kumilla,40,40-44,40-49,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Delusional
+Jamal,Pirojpur,46,45-49,40-49,M,Married,Adult,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+Manir Alam,Dhaka,35,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,No,SRD
+Saifullah,Feni,18,15-19,10-19,M,Married,Adult,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Psychotic
+Sahed,Noahkali,20,20-24,20-29,M,Unmarried,Adult,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,BMD
+Tipu,Dhaka,23,20-24,20-29,M,Unmarried,Adult,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,SRD
+Munna,Dhaka,18,15-19,10-19,M,Unmarried,Adult,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Shek Samim Ahmed,Barisal,29,25-29,20-29,M,Unmarried,Psychotherapy,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,F.K
+Jahangir,Kisorgang,28,25-29,20-29,M,Married,Psychotherapy,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,BMD
+Ajoy,Barisal,28,25-29,20-29,M,Unmarried,Psychotherapy,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Md Badsha,Norshindi,27,25-29,20-29,M,Married,Psychotherapy,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Kaleed Musa,N/A,28,25-29,20-29,M,Unmarried,Adult Psychiatry,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+Naim Rahman,Ranngpur,19,15-19,10-19,M,Unmarried,Psychotherapy,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Conduct disorder
+Helal,Comilla,20,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Md Arif Hossen,Lakshmipur,20,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Psychotic disorder
+Khairul Aman,N/A,20,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,SRD
+Shariful muslim,Chandpur,25,25-29,20-29,M,Unmarried,Adult Psychiatry,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,SRD
+Fayaz Ahmad,Faridpur,15,15-19,10-19,M,Unmarried,Child adolescent and family psychiatry,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes sound disorder
+Shamsul Alam,Barisal,55,55-59,50-59,M,Married,Psychotherapy,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,BMD
+Mojammel,Potuakali,28,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,SRD
+Imran,Dhaka,35,35-39,30-39,M,Unmarried,Adult,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,N.O.S
+Sha Alam,Fakrapul,35,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,SRD
+Ovaidullah,Pirojpur,28,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Tarek,Barishal,30,30-34,30-39,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Kairul muslim,Keraniganja,27,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Badol,N/A,50,50-54,50-59,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Md Tipu Sultan,Kishrgong,22,20-24,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Julear Ahemed,N/A,25,25-29,20-29,M,Unmarried,Adult,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Abu Bakkar,Dhaka,55,55-59,50-59,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,BMD
+Md Liton Mia,Dhaka,28,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Mahfuz Alam,Chandpur,29,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Manik Kumar Dash,"Jagannath hall, Dhaka University",33,30-34,30-39,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Depression
+MD Omar Faruk,Madaripur,28,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Psychotic disorder
+Md Muminur Rahman,Dhaka,52,50-54,50-59,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Md Kamal,Isalmpur,35,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Mohan,Amirabad,22,20-24,20-29,M,Unmarried,Adult,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,SRD
+Shipon,Chandpur,35,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Ibrahim,Barishal,20,20-24,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+Manjur Alam,N/A,25,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Panaroid sehesophre
+Javed,Narayanganj,30,30-34,30-39,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,BMD
+Bahadur,N/A,27,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,SRD
+Bahadur,N/A,27,25-29,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,SRD
+Arif,Gahipur,28,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+MD Mohiuddin,Tangail,38,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Yeasin,Dhaka,17,15-19,10-19,M,Unmarried,Child adolescent and family psychiatry,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Acute Psychotic Disorder
+Md Saokat,Dhaka,32,30-34,30-39,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,SRD
+Golam Mostafa,Dhaka,23,20-24,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,BMD
+Avi Hasan,Tangail,26,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Delusional
+Abul Basar,Munsiganja,25,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Schizophrenia
+Saiful muslim,Potuakali,18,15-19,10-19,M,Unmarried,Adult,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Imran Shiek,Narail,22,20-24,20-29,M,Unmarried,Adult,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Polash,Habiganja,18,15-19,10-19,M,Unmarried,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Alam Hasan,Bagerhut,48,45-49,40-49,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,BMD
+Nurul Amin,Dhaka,26,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Kalek,Kumilla,32,30-34,30-39,M,Unmarried,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Khokon,Kumilla,40,40-44,40-49,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Delusional
+Jamal,Pirojpur,46,45-49,40-49,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Manir Alam,Dhaka,35,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,SRD
+Saifullah,Feni,18,15-19,10-19,M,Married,Adult,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Psychotic disorder
+Sahed,Noahkali,20,20-24,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,BMD
+Tipu,Dhaka,23,20-24,20-29,M,Unmarried,Adult,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,SRD
+Munna,Dhaka,18,15-19,10-19,M,Unmarried,Adult,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Shipon,Barisal,21,20-24,20-29,M,Married,Adult,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,SRD
+Mohsin,Gaibandha,20,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Md Abdul Karim,N/A,36,35-39,30-39,M,Married,Adult Psychiatry,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,BMD
+Md Khokon,Jamalpur,23,20-24,20-29,M,Married,Adult,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Jamal Uddin,Mymensingh,37,35-39,30-39,M,Married,Adult,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,SRD
+Firoz,Kurigram,45,45-49,40-49,M,Married,Adult,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Depression
+Rafiqul Islam,Narsingdi,20,20-24,20-29,M,Unmarried,Adult,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,SRD
+Md Sohel,Bagerhut,20,20-24,20-29,M,Unmarried,Adult,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Md Masum Dewan,Dhaka,29,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Schizophrenia
+Habib,Narayanganj,18,15-19,10-19,M,Unmarried,Adult Psychiatry,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,SRD
+Humayun,Noyakhali,25,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,SRD
+Md Sakhawat Hossen,Dhaka,45,45-49,40-49,M,Married,Adult,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Faysal,Chandpur,23,20-24,20-29,M,Unmarried,Adult,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Schizophrenia
+Hira mia,Kishorganj,18,15-19,10-19,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Psychotic disorder
+Kabir,Barisal,36,35-39,30-39,M,Unmarried,Adult,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Babu,Dhaka,22,20-24,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,SRD
+Billal Hossen,Bola,22,20-24,20-29,M,Unmarried,Adult,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Rashed,Lakshmipur,22,20-24,20-29,M,Unmarried,Adult,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+Safikul islam,Comilla,27,25-29,20-29,M,Unmarried,Adult,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Schizophrenia
+Jwel,Patuakali,19,15-19,10-19,M,Unmarried,Adult,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Mizanur Rahman,Barisal,30,30-34,30-39,M,Unmarried,Adult Psychiatry,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Md Abul Kalam,Patuakali,55,55-59,50-59,M,Married,Adult Psychiatry,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Farhad Anondo,Gazipur,19,15-19,10-19,M,Unmarried,Adult Psychiatry,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,BMD
+Billal,Sariyotpur,20,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Rasel,Dhaka,33,30-34,30-39,M,Married,Adult Psychiatry,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+Md Asadul,Nababganj,20,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,SRD
+Md Al Amin,Dhaka,21,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Md Elias,Noakhali,16,15-19,10-19,M,Married,Adult,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Md Ripon,Noakhali,23,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Saddam Hossen,Dhaka,22,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,SRD
+Amzad Hossen,Noakhali,30,30-34,30-39,M,Married,Adult Psychiatry,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Psychotic disorder
+Jahangir Alam Bhuya,Noakhali,30,30-34,30-39,M,Married,Adult Psychiatry,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Md Alomgir,Madaripur,35,35-39,30-39,M,Married,Adult Psychiatry,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Schizophrenia
+Sakibur Rahman,Dhaka,30,30-34,30-39,M,Married,Adult Psychiatry,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,SRD
+Sumon,Feni,30,30-34,30-39,M,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+Ashadul Islam,Tangail,20,20-24,20-29,M,Married,Adult,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,BMD
+Afnan,Dhaka,25,25-29,20-29,M,Married,Adult,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+Abdul Ahad,Maymansingh,21,20-24,20-29,M,Married,Adult,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Schizophrenia
+Md Rafiqul Islam,Narayanganj,28,25-29,20-29,M,Married,Adult Psychiatry,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,SRD
+Md Hossen,Firozpur,34,30-34,30-39,M,Married,Adult Psychiatry,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+Sofiqul Islam,Faridpur,20,20-24,20-29,M,Married,Adult,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Akram Aziz,Dhaka,26,25-29,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,SRD
+Md Shek,Firozpur,20,20-24,20-29,M,Unmarried,Adult,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,BMD
+Jummat ali,Manikganj,32,30-34,30-39,M,Married,Adult Psychiatry,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+Towkir Ahmed,Comilla,22,20-24,20-29,M,Unmarried,Adult,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+Ahmed karim,Gazipur,28,25-29,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+Arshad,Gazipur,30,30-34,30-39,M,Married,Adult,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+Saleh uddin ahmed,Noakhali,27,25-29,20-29,M,Married,Adult Psychiatry,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+Ahmed Rakib,Chandpur,28,25-29,20-29,M,Divorced,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,BMD
+Hafez Monir Hossen,Patuakali,34,30-34,30-39,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Psychotic disorder
+hasan saifulla,Dhaka,28,25-29,20-29,M,Unmarried,Adult,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Schizophrenia
+Masud,Comilla,22,20-24,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,BMD
+jasim uddin,Dhaka,36,35-39,30-39,M,Married,Adult Psychiatry,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Schizophrenia
+md almas,Dhaka,22,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Schizophrenia
+sabbir,Dhaka,24,20-24,20-29,M,Unmarried,Adult,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Schizophrenia
+sahin,Gazipur,30,30-34,30-39,M,Married,Adult,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+omar faruk,Dhaka,42,40-44,40-49,M,Unmarried,Adult,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+khukan,Madirapur,22,20-24,20-29,M,Married,Adult,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,Schizophrenia
+monir hossain,Dhaka,35,35-39,30-39,M,Married,Adult,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Schizophrenia
+shafikul,Sariyotpur,23,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Schizophrenia
+sadikul,Norshindi,20,20-24,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+nasir uddin,Brammonbaria,69,65-69,65-69,M,mMarried,Adult Psychiatry,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Schizophrenia
+montasir alam,Dinajpur,21,20-24,20-29,M,Unmarried,Adult,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+dalim mia,Nobabgonj,30,30-34,30-39,M,Married,Adult Psychiatry,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Schizophrenia
+kabir hossain,Dhaka,25,25-29,20-29,M,Married,Adult,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+jakir hossain,Dhaka,30,30-34,30-39,M,Married,Adult Psychiatry,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Schizophrenia
+atikul,Shirajgonj,24,20-24,20-29,M,Married,Adult,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+hasan,Dhaka,20,20-24,20-29,M,Unmarried,Adult,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,BMD
+lutfor rahman,Dhaka,30,30-34,30-39,M,Married,Adult,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Schizophrenia
+arif,Manikgonj,25,25-29,20-29,M,Married,Adult,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Schizophrenia
+rony,Nurjahan,23,20-24,20-29,M,Unmarried,Adult,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+jakir hossain,Dhaka,30,30-34,30-39,M,Married,Adult,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Schizophrenia
+shahidul,Mymansing,32,30-34,30-39,M,Married,Adult,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Psychotic disorder
+hatem ali,Munchigong,35,35-39,30-39,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Schizophrenia
+marush,Dhaka,24,20-24,20-29,M,Unmarried,Adult,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,BMD
+ruhul amin,Jossore,40,40-44,40-49,M,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+abdur rahman,Dhaka,30,30-34,30-39,M,Married,Adult Psychiatry,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+jalil,Dhaka,55,55-59,50-59,M,Married,Adult,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Schizophrenia
+alamin,Dhaka,30,30-34,30-39,M,Married,Adult,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,BMD
+mumin,Sherpur,16,15-19,10-19,M,Unmarried,Adult,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Schizophrenia
+mostofa kamal,Feni,40,40-44,40-49,M,Married,Adult,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,BMD
+Al amin,Gazipur,17,15-19,10-19,M,Unmarried,Adult,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Schizophrenia
+milon molla,Dhaka,28,25-29,20-29,M,Married,Adult,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,SRD
+Billal Hossen,Vola,22,20-24,20-29,M,Unmarried,Adult,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Schizophrenia
+ovi,Jossore,26,25-29,20-29,M,Unmarried,Psychotherapy,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,SRD
+faruki afsal,Kishorgonj,55,55-59,50-59,M,Married,Adult,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Schizophrenia
+mizan,Barisal,35,35-39,30-39,M,Married,Adult,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,BMD
+Rafiqul Islam,Narayanganj,32,30-34,30-39,M,Unmarried,Adult,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Schizophrenia
+imtiaz,Dhaka,19,15-19,10-19,M,Unmarried,Adult Psychiatry,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Internel addictiom
+roton,Narayanganj,25,25-29,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Schizophrenia
+rasel,Hobigong,20,20-24,20-29,M,Unmarried,Adult Psychiatry,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+monir hossain,Dhaka,35,35-39,30-39,M,Married,Adult Psychiatry,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,BMD
+asad,Dhaka,28,25-29,20-29,M,Married,Adult,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Schizophrenia
+asad mia,Norshindi,30,30-34,30-39,M,Unmarried,Adult,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Schizophrenia
+kawswe mahbub,Dhaka,22,20-24,20-29,M,Unmarried,Adult,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+jamal uddin,Dhaka,45,45-49,40-49,M,Married,Adult Psychiatry,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+ovaidul,Feni,39,35-39,30-39,M,Married,Adult Psychiatry,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,SRD
+omar faruk,Norshindi,30,30-34,30-39,M,Married,Adult,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,BMD
+muin uddin,KhodiGram,55,55-59,50-59,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,SRD
+ashikul islam,Vola,47,45-49,40-49,M,Married,Psychotherapy,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Depression
+mubarak,Mymansing,19,15-19,10-19,M,Unmarried,Adult,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,Schizophrenia
+robindrinath,Dhaka,50,50-54,50-59,M,Married,Adult,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Schizophrenia
+manik,Kishorgong,35,35-39,30-39,M,Married,Adult,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Schizophrenia
+milon,Patuakali,24,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+mastak,Dhaka,40,40-44,40-49,M,Married,Adult Psychiatry,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Schizophrenia
+novi,Norshindi,27,25-29,20-29,M,Married,Adult Psychiatry,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,BMD
+juel,Dhaka,25,25-29,20-29,M,Unmarried,Adult Psychiatry,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+hussain shiblu,Dhaka,36,35-39,30-39,M,Married,Adult,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+humayun kabir,Dhaka,26,25-29,20-29,M,Unmarried,Adult,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Schizophrenia
+maksudullah,Vola,36,35-39,30-39,M,Married,Adult,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+alamgir,Narayanganj,35,35-39,30-39,M,Married,Adult,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,SRD
+shohid,,28,25-29,20-29,M,Married,Adult,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+aminul islam,Gazipur,48,45-49,40-49,M,Married,Adult,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Psychotic disorder
+abdur rahman,Dhaka,34,30-34,30-39,M,Married,Adult Psychiatry,No,No,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+abdur raihan,Nobabgonj,32,30-34,30-39,M,Unmarried,Adult,Yes,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+motin,Narayanganj,48,45-49,40-49,M,Married,Adult,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Schizophrenia
+faruk mia,Dhaka,26,25-29,20-29,M,Married,Adult,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+hridoy,Dhaka,20,20-24,20-29,M,Married,Adult,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Psychotic disorder
+mohiuddin,Manikpur,30,30-34,30-39,M,Unmarried,Adult,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,Schizophrenia
+jakir,,40,40-44,40-49,M,Married,Adult,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+mahmudul hoque,Feni,43,40-44,40-49,M,Married,Adult,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+nizam uddin,Tangail,34,30-34,30-39,M,Married,Adult Psychiatry,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Schizophrenia
+raiz,Vola,24,20-24,20-29,M,Unmarried,Adult,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Psychotic disorder
+faruk molla,Chadpur,45,45-49,40-49,M,Married,Adult,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Schizophrenia
+akhter,Noakhali,30,30-34,30-39,M,Unmarried,Adult,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,BMD
+shafiq,Comilla,27,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,BMD
+salim ahmed,Dhaka,45,45-49,40-49,M,Married,Adult,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,
+rajib,Dhaka,25,25-29,20-29,M,Unmarried,Adult,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+moin uddin,Dhaka,20,20-24,20-29,M,Unmarried,Adult Psychiatry,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Schizophrenia
+sojibon,Dhaka,35,35-39,30-39,M,Married,Adult Psychiatry,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,BMD
+jahir uddin,Dhaka,46,45-49,40-49,M,Married,Adult,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,BMD
+shuvo,Narayanganj,23,20-24,20-29,M,Unmarried,Adult,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,SRD
+parvez,Ranngpur,25,25-29,20-29,M,Married,Adult,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Psychotic disorder
+emon,Comilla,19,15-19,10-19,M,Unmarried,Adult,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Schizophrenia
+saiful islam,Dhaka,24,20-24,20-29,M,Unmarried,Adult,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Schizophrenia
+rased,Manikgonj,28,25-29,20-29,M,Married,Adult,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+aziz,Dhaka,50,50-54,50-59,M,Married,Adult,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+dilip,Manikgonj,25,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,
+abul hossen,Comilla,25,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,BMD
+khorshed alam,Dhaka,30,30-34,30-39,M,Married,Adult,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,BMD
+hossen,Comilla,35,35-39,30-39,M,Married,Adult,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+sohel,Dhaka,22,20-24,20-29,M,Unmarried,Adult,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,BMD
+yasin arafat,Dhaka,20,20-24,20-29,M,Unmarried,Adult,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,Schizophrenia
+shah alam,Dhaka,25,25-29,20-29,M,Unmarried,Adult,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+tusher,Dhaka,19,15-19,10-19,M,Unmarried,Adult,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,BMD
+nizam uddin,Dhaka,65,65-69,65-69,M,Unmarried,Adult,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Schizophrenia
+tanvir hasan,Norshindi,28,25-29,20-29,M,Unmarried,Adult Psychiatry,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,Psychotic disorder
+nahid,Dhaka,21,20-24,20-29,M,Unmarried,Adult,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Acute Psychotic Disorder
+Rafiqul Islam,Dhaka,35,30-34,30-39,M,Married,Adult,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Schizophrenia
+kuber mia,Barisal,30,30-34,30-39,M,Married,Adult,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Schizophrenia
+hussen ali,Dhaka,46,45-49,40-49,M,Married,Adult Psychiatry,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,Schizophrenia
+sumon,Dhaka,25,25-29,20-29,M,Married,Adult Psychiatry,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Psychotic disorder
+harun,Chadpur,56,55-59,50-59,M,Married,Adult Psychiatry,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,Acute Psychotic Disorder
+sihan,Dhaka,19,15-19,10-19,M,Unmarried,Adult Psychiatry,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,BMD
+sujol,Kishorgonj,25,25-29,20-29,M,Unmarried,Adult Psychiatry,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+gulam hossain,Kodigram,50,50-54,50-59,M,Married,Adult Psychiatry,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,MDD
+suhel,Dhaka,19,15-19,10-19,M,Unmarried,Adult Psychiatry,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,BMD
+kamal hossen,Munshigonj,33,30-34,30-39,M,Married,Adult Psychiatry,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Schizophrenia
+abu kashem,Dhaka,22,20-24,20-29,M,Unmarried,Psychotherapy,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Psychotic disorder
+delowar hossen,Monshigonj,29,25-29,20-29,M,Unmarried,Adult,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Schizophrenia
+mohsin,Dhaka,45,45-49,40-49,M,Married,Psychotherapy,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Psychotic disorder
+shahin,Comilla,24,20-24,20-29,M,Unmarried,Adult Psychiatry,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Psychotic disorder
+rafiqul,Dhaka,18,15-19,10-19,M,Unmarried,Adult,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Schizophrenia
+ibrahim,Noakhali,41,40-41,40-41,M,Unmarried,Adult Psychiatry,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,Schizophrenia
+raju,Dhaka,24,20-24,20-29,M,Married,Adult Psychiatry,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Schizophrenia
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
